@@ -10,4 +10,3 @@ subprocess.call(["ifconfig","eth0","up"])
 
 print("mac değiştirildi")
 
-print("guncellenecek")
